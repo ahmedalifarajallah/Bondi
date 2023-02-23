@@ -7,7 +7,7 @@
 
 
 ## Screenshots
-![Bondi--All Website](<> "All Website")
+![Bondi](https://user-images.githubusercontent.com/126039300/221010765-4fda4e35-2d72-46ef-b542-8225c1c6b05c.jpeg)
 
 
 ## Built With
